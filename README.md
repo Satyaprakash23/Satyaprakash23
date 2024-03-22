@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyaprakash Sahoo</h1>
 <h3 align="center">An Aspiring Data Scientist | Passionate about Data Analytics and Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/383e3e9d0f07c8a5b09b0a92d2776554df9b001f005ab58ba4cbe4a7e3d0b259/68747470733a2f2f6d656469612e74656e6f722e636f6d2f695242377672766850523441414141692f646174612d636f64652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyaprakash23&label=Profile%20views&color=0e75b6&style=flat" alt="satyaprakash23" /> </p>
 
